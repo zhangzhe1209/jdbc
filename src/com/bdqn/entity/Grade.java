@@ -5,5 +5,4 @@ public class Grade {
 	private String gradeName;
 	private String desc;
 	private String haha;
-	private String heihei;
 }
